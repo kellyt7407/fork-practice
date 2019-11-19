@@ -12,9 +12,11 @@
 ### Make me a heading size 3
 
 Put a line BELOW me!
+------
 
 
 
+------
 Put a line ABOVE me!
 
 Make
